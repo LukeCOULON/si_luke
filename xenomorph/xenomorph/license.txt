@@ -1,0 +1,11 @@
+Model Information:
+* title:	Xenomorph
+* source:	https://sketchfab.com/3d-models/xenomorph-4b379db23a684ecf861e0ae5c10bd281
+* author:	gtavmaniak174 (https://sketchfab.com/gtavmaniak174)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Xenomorph" (https://sketchfab.com/3d-models/xenomorph-4b379db23a684ecf861e0ae5c10bd281) by gtavmaniak174 (https://sketchfab.com/gtavmaniak174) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
